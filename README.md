@@ -1,4 +1,4 @@
-# Sagarika's Portfolio Website
+# Portfolio Website Design
 
 A responsive, modern, and interactive personal portfolio website built using **HTML, CSS, and JavaScript**. The site showcases my skills, projects, achievements, and provides a platform for visitors to get in touch.  
 
