@@ -4,6 +4,7 @@ A responsive, modern, and interactive personal portfolio website built using **H
 
 Live demo: [https://sagarikabhagat.netlify.app](https://sagarikabhagat.netlify.app)
 
+---
 
 ## Features
 
@@ -14,6 +15,7 @@ Live demo: [https://sagarikabhagat.netlify.app](https://sagarikabhagat.netlify.a
 - **Achievements Section:** Showcases key certifications and awards.  
 - **Contact Section:** Quick access to contact form for potential collaborations.  
 
+---
 
 ## Sections
 
@@ -25,6 +27,7 @@ Live demo: [https://sagarikabhagat.netlify.app](https://sagarikabhagat.netlify.a
 6. **Contact CTA:** Encourages visitors to reach out for collaborations.  
 7. **Footer:** Simple footer with copyright notice.
 
+---
 
 ## Technologies Used
 
@@ -34,38 +37,51 @@ Live demo: [https://sagarikabhagat.netlify.app](https://sagarikabhagat.netlify.a
 - **Three.js** – 3D effects support for Vanta.js  
 - **PDF Integration** – Resume available for download  
 
+---
 
 ## Folder Structure
 
 ```
 
 portfolio/
-├── index.html          # Home page
-├── about.html          # About page
-├── contact.html        # Contact page
-├── style.css           # Main stylesheet
-├── script.js           # Custom JS for interactivity
+├── index.html           # Home page
+├── about.html           # About page
+├── contact.html         # Contact page
+├── style.css            # Main stylesheet
+├── script.js            # Custom JS for interactivity
 ├── files/
-│   └── Sagarika\_CV.pdf # Resume
-├── screenshots/        # Screenshots for README (optional)
+│   └── Sagarika\_CV.pdf  # Resume
+├── screenshots/         # Screenshots for README (optional)
 └── README.md
 
 ````
+
+---
 
 ## How to Run Locally
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Sagarika311/Portfolio-Website.git
-````
+```
+
 2. Navigate to the project folder:
+
    ```bash
    cd Portfolio-Website
    ```
 3. Open `index.html` in your browser.
 4. Ensure you have an internet connection for external scripts like **Three.js** and **Vanta.js**.
 
-````
+--- 
+
+## Screenshots
+
+![Homepage](screenshots/homepage.png)
+![About Page](screenshots/aboutpage.png)
+![Contact Page](screenshots/contactpage.png)
+
+---
 
 ## Projects Featured
 
@@ -75,6 +91,7 @@ portfolio/
 
 For more projects, visit my [GitHub](https://github.com/Sagarika311).
 
+---
 
 ## Achievements
 
@@ -82,13 +99,17 @@ For more projects, visit my [GitHub](https://github.com/Sagarika311).
 * **Google Cloud Certified: Cloud Digital Leader**
 * Certified in **Machine Learning, Generative AI, Data Visualization** (IBM, UW, Rice University)
 
+---
 
 ## Contact
 
 * 📧 Email: [sagarikabhagat311@gmail.com](mailto:sagarikabhagat311@gmail.com)
 * 🔗 LinkedIn: [Sagarika Bhagat](https://linkedin.com/in/sagarika-bhagat)
 
+---
+
 ## License
 
 This project is **open source** and available under the MIT License.
 
+```
