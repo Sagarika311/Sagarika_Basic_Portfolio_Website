@@ -63,9 +63,8 @@ portfolio/
 1. Clone the repository:
    ```bash
    git clone https://github.com/Sagarika311/Portfolio-Website.git
-```
+   ```
 2. Navigate to the project folder:
-
    ```bash
    cd Portfolio-Website
    ```
