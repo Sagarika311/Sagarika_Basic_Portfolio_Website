@@ -64,7 +64,6 @@ portfolio/
    ```bash
    git clone https://github.com/Sagarika311/Portfolio-Website.git
 ```
-
 2. Navigate to the project folder:
 
    ```bash
@@ -111,5 +110,3 @@ For more projects, visit my [GitHub](https://github.com/Sagarika311).
 ## License
 
 This project is **open source** and available under the MIT License.
-
-```
